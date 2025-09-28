@@ -27,4 +27,4 @@ The goal was to clean the raw data, engineer new features, and provide actionabl
 * **Jupyter Notebook / VS Code**
 
 ## How to View
-The complete analysis and code are available in the `netflix_eda.ipynb` file.
+The complete analysis and code are available in the `CodeAlpha_Task2_EDA.ipynb` file.
