@@ -25,6 +25,8 @@ The goal was to clean the raw data, engineer new features, and provide actionabl
 * **Pandas** (Data Manipulation and Cleaning)
 * **Matplotlib / Seaborn** (Data Visualization)
 * **Jupyter Notebook / VS Code**
+* ## Dataset Used
+The cleaned dataset, ready for predictive modeling, is available as a CSV file in this repository: **[cleaned_netflix.csv](cleaned_netflix.csv)**
 
 ## How to View
 The complete analysis and code are available in the `CodeAlpha_Task2_EDA.ipynb` file.
